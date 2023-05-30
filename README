@@ -1,0 +1,9 @@
+# BACKEND VETERINARIA
+
+Ejecutar el siguiente comando 
+'''
+npm install
+'''
+para reconstruir los modulos de Node.
+
+Revisar el package.json para ver las dependencias instaladas
